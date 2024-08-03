@@ -1,0 +1,63 @@
+﻿@model StudentsApp.Models.StudentsViewModel;
+
+
+@{
+    ViewData["Title"] = "Our Students";
+}
+
+<div class="container">
+    <div class="row">
+        <nav class="nav nav-tabs">
+
+            @foreach (var tab in Model.TabNames)
+            {
+                <a class="nav-item nav-link @(tab.ToLower() == Model.Active.ToLower() ? "active" : "")" 
+                   href="/students/@tab">
+                    @tab
+                </a>
+            }
+        </nav>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6">
+            <h2>Students:</h2>
+            <ul>
+                @foreach (var student in Model.Students)
+                {
+                    <li>@student.Name</li>
+                }
+            </ul>
+        </div>
+
+        <div class="col-12 col-md-6">
+            <br /><br />
+            <h2>Add Student</h2>
+            <form method="post" asp-action="AddStudent">
+                <div class="form-group">
+                    <label for="Name">Name:</label>
+                    <input type="text" class="form-control" id="Name" name="Name" required>
+                </div>
+                <div class="form-group">
+                    <label for="EnrollmentStatus">Enrollment Status:</label>
+                    <select class="form-control" id="EnrollmentStatus" name="EnrollmentStatus" required>
+                        @foreach (var status in Model.stat)
+                        {
+                            <option value="@status">@status</option>
+                        }
+                    </select>
+                </div> <br />
+                <button type="submit" class="btn btn-primary">Add</button>
+            </form>
+        </div>
+        @section Scripts {
+            @{
+                await Html.RenderPartialAsync("_ValidationScriptsPartial");
+            }
+        }
+    </div>
+</div>
+
+
+   
+   

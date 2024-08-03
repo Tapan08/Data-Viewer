@@ -1,0 +1,152 @@
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students\StudentsApp\bin\Debug\net7.0\appsettings.Development.json
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students\StudentsApp\bin\Debug\net7.0\appsettings.json
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students\StudentsApp\bin\Debug\net7.0\StudentsApp.staticwebassets.runtime.json
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students\StudentsApp\bin\Debug\net7.0\StudentsApp.exe
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students\StudentsApp\bin\Debug\net7.0\StudentsApp.deps.json
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students\StudentsApp\bin\Debug\net7.0\StudentsApp.runtimeconfig.json
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students\StudentsApp\bin\Debug\net7.0\StudentsApp.dll
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students\StudentsApp\bin\Debug\net7.0\StudentsApp.pdb
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students\StudentsApp\obj\Debug\net7.0\StudentsApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students\StudentsApp\obj\Debug\net7.0\StudentsApp.AssemblyInfoInputs.cache
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students\StudentsApp\obj\Debug\net7.0\StudentsApp.AssemblyInfo.cs
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students\StudentsApp\obj\Debug\net7.0\StudentsApp.csproj.CoreCompileInputs.cache
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students\StudentsApp\obj\Debug\net7.0\StudentsApp.MvcApplicationPartsAssemblyInfo.cache
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students\StudentsApp\obj\Debug\net7.0\StudentsApp.RazorAssemblyInfo.cache
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students\StudentsApp\obj\Debug\net7.0\StudentsApp.RazorAssemblyInfo.cs
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students\StudentsApp\obj\Debug\net7.0\staticwebassets\msbuild.StudentsApp.Microsoft.AspNetCore.StaticWebAssets.props
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students\StudentsApp\obj\Debug\net7.0\staticwebassets\msbuild.build.StudentsApp.props
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students\StudentsApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.StudentsApp.props
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students\StudentsApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.StudentsApp.props
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students\StudentsApp\obj\Debug\net7.0\staticwebassets.pack.json
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students\StudentsApp\obj\Debug\net7.0\staticwebassets.build.json
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students\StudentsApp\obj\Debug\net7.0\staticwebassets.development.json
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students\StudentsApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students\StudentsApp\obj\Debug\net7.0\scopedcss\bundle\StudentsApp.styles.css
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students\StudentsApp\obj\Debug\net7.0\scopedcss\projectbundle\StudentsApp.bundle.scp.css
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students\StudentsApp\obj\Debug\net7.0\StudentsApp.dll
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students\StudentsApp\obj\Debug\net7.0\refint\StudentsApp.dll
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students\StudentsApp\obj\Debug\net7.0\StudentsApp.pdb
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students\StudentsApp\obj\Debug\net7.0\StudentsApp.genruntimeconfig.cache
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students\StudentsApp\obj\Debug\net7.0\ref\StudentsApp.dll
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students-starting-code\StudentsApp\bin\Debug\net7.0\appsettings.Development.json
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students-starting-code\StudentsApp\bin\Debug\net7.0\appsettings.json
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students-starting-code\StudentsApp\bin\Debug\net7.0\StudentsApp.staticwebassets.runtime.json
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students-starting-code\StudentsApp\bin\Debug\net7.0\StudentsApp.exe
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students-starting-code\StudentsApp\bin\Debug\net7.0\StudentsApp.deps.json
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students-starting-code\StudentsApp\bin\Debug\net7.0\StudentsApp.runtimeconfig.json
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students-starting-code\StudentsApp\bin\Debug\net7.0\StudentsApp.dll
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students-starting-code\StudentsApp\bin\Debug\net7.0\StudentsApp.pdb
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students-starting-code\StudentsApp\obj\Debug\net7.0\StudentsApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students-starting-code\StudentsApp\obj\Debug\net7.0\StudentsApp.AssemblyInfoInputs.cache
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students-starting-code\StudentsApp\obj\Debug\net7.0\StudentsApp.AssemblyInfo.cs
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students-starting-code\StudentsApp\obj\Debug\net7.0\StudentsApp.csproj.CoreCompileInputs.cache
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students-starting-code\StudentsApp\obj\Debug\net7.0\StudentsApp.MvcApplicationPartsAssemblyInfo.cache
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students-starting-code\StudentsApp\obj\Debug\net7.0\StudentsApp.RazorAssemblyInfo.cache
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students-starting-code\StudentsApp\obj\Debug\net7.0\StudentsApp.RazorAssemblyInfo.cs
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students-starting-code\StudentsApp\obj\Debug\net7.0\staticwebassets\msbuild.StudentsApp.Microsoft.AspNetCore.StaticWebAssets.props
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students-starting-code\StudentsApp\obj\Debug\net7.0\staticwebassets\msbuild.build.StudentsApp.props
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students-starting-code\StudentsApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.StudentsApp.props
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students-starting-code\StudentsApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.StudentsApp.props
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students-starting-code\StudentsApp\obj\Debug\net7.0\staticwebassets.pack.json
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students-starting-code\StudentsApp\obj\Debug\net7.0\staticwebassets.build.json
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students-starting-code\StudentsApp\obj\Debug\net7.0\staticwebassets.development.json
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students-starting-code\StudentsApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students-starting-code\StudentsApp\obj\Debug\net7.0\scopedcss\bundle\StudentsApp.styles.css
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students-starting-code\StudentsApp\obj\Debug\net7.0\scopedcss\projectbundle\StudentsApp.bundle.scp.css
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students-starting-code\StudentsApp\obj\Debug\net7.0\StudentsApp.dll
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students-starting-code\StudentsApp\obj\Debug\net7.0\refint\StudentsApp.dll
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students-starting-code\StudentsApp\obj\Debug\net7.0\StudentsApp.pdb
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students-starting-code\StudentsApp\obj\Debug\net7.0\StudentsApp.genruntimeconfig.cache
+G:\My Drive\python\college-code\PROG2230-code\in-class-assignments\in-class2\Students-starting-code\StudentsApp\obj\Debug\net7.0\ref\StudentsApp.dll
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice-assignment2-starting-code\StudentsApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice-assignment2-starting-code\StudentsApp\bin\Debug\net7.0\appsettings.json
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice-assignment2-starting-code\StudentsApp\bin\Debug\net7.0\StudentsApp.staticwebassets.runtime.json
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice-assignment2-starting-code\StudentsApp\bin\Debug\net7.0\StudentsApp.exe
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice-assignment2-starting-code\StudentsApp\bin\Debug\net7.0\StudentsApp.deps.json
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice-assignment2-starting-code\StudentsApp\bin\Debug\net7.0\StudentsApp.runtimeconfig.json
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice-assignment2-starting-code\StudentsApp\bin\Debug\net7.0\StudentsApp.dll
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice-assignment2-starting-code\StudentsApp\bin\Debug\net7.0\StudentsApp.pdb
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice-assignment2-starting-code\StudentsApp\obj\Debug\net7.0\StudentsApp.csproj.AssemblyReference.cache
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice-assignment2-starting-code\StudentsApp\obj\Debug\net7.0\StudentsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice-assignment2-starting-code\StudentsApp\obj\Debug\net7.0\StudentsApp.AssemblyInfoInputs.cache
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice-assignment2-starting-code\StudentsApp\obj\Debug\net7.0\StudentsApp.AssemblyInfo.cs
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice-assignment2-starting-code\StudentsApp\obj\Debug\net7.0\StudentsApp.csproj.CoreCompileInputs.cache
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice-assignment2-starting-code\StudentsApp\obj\Debug\net7.0\StudentsApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice-assignment2-starting-code\StudentsApp\obj\Debug\net7.0\StudentsApp.RazorAssemblyInfo.cache
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice-assignment2-starting-code\StudentsApp\obj\Debug\net7.0\StudentsApp.RazorAssemblyInfo.cs
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice-assignment2-starting-code\StudentsApp\obj\Debug\net7.0\staticwebassets\msbuild.StudentsApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice-assignment2-starting-code\StudentsApp\obj\Debug\net7.0\staticwebassets\msbuild.build.StudentsApp.props
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice-assignment2-starting-code\StudentsApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.StudentsApp.props
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice-assignment2-starting-code\StudentsApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.StudentsApp.props
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice-assignment2-starting-code\StudentsApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice-assignment2-starting-code\StudentsApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice-assignment2-starting-code\StudentsApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice-assignment2-starting-code\StudentsApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice-assignment2-starting-code\StudentsApp\obj\Debug\net7.0\scopedcss\bundle\StudentsApp.styles.css
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice-assignment2-starting-code\StudentsApp\obj\Debug\net7.0\scopedcss\projectbundle\StudentsApp.bundle.scp.css
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice-assignment2-starting-code\StudentsApp\obj\Debug\net7.0\StudentsApp.dll
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice-assignment2-starting-code\StudentsApp\obj\Debug\net7.0\refint\StudentsApp.dll
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice-assignment2-starting-code\StudentsApp\obj\Debug\net7.0\StudentsApp.pdb
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice-assignment2-starting-code\StudentsApp\obj\Debug\net7.0\StudentsApp.genruntimeconfig.cache
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice-assignment2-starting-code\StudentsApp\obj\Debug\net7.0\ref\StudentsApp.dll
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice\StudentsApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice\StudentsApp\bin\Debug\net7.0\appsettings.json
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice\StudentsApp\bin\Debug\net7.0\StudentsApp.staticwebassets.runtime.json
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice\StudentsApp\bin\Debug\net7.0\StudentsApp.exe
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice\StudentsApp\bin\Debug\net7.0\StudentsApp.deps.json
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice\StudentsApp\bin\Debug\net7.0\StudentsApp.runtimeconfig.json
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice\StudentsApp\bin\Debug\net7.0\StudentsApp.dll
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice\StudentsApp\bin\Debug\net7.0\StudentsApp.pdb
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice\StudentsApp\obj\Debug\net7.0\StudentsApp.csproj.AssemblyReference.cache
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice\StudentsApp\obj\Debug\net7.0\StudentsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice\StudentsApp\obj\Debug\net7.0\StudentsApp.AssemblyInfoInputs.cache
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice\StudentsApp\obj\Debug\net7.0\StudentsApp.AssemblyInfo.cs
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice\StudentsApp\obj\Debug\net7.0\StudentsApp.csproj.CoreCompileInputs.cache
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice\StudentsApp\obj\Debug\net7.0\StudentsApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice\StudentsApp\obj\Debug\net7.0\StudentsApp.RazorAssemblyInfo.cache
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice\StudentsApp\obj\Debug\net7.0\StudentsApp.RazorAssemblyInfo.cs
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice\StudentsApp\obj\Debug\net7.0\staticwebassets\msbuild.StudentsApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice\StudentsApp\obj\Debug\net7.0\staticwebassets\msbuild.build.StudentsApp.props
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice\StudentsApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.StudentsApp.props
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice\StudentsApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.StudentsApp.props
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice\StudentsApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice\StudentsApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice\StudentsApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice\StudentsApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice\StudentsApp\obj\Debug\net7.0\scopedcss\bundle\StudentsApp.styles.css
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice\StudentsApp\obj\Debug\net7.0\scopedcss\projectbundle\StudentsApp.bundle.scp.css
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice\StudentsApp\obj\Debug\net7.0\StudentsApp.dll
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice\StudentsApp\obj\Debug\net7.0\refint\StudentsApp.dll
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice\StudentsApp\obj\Debug\net7.0\StudentsApp.pdb
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice\StudentsApp\obj\Debug\net7.0\StudentsApp.genruntimeconfig.cache
+C:\Users\Tapan Patel\OneDrive\Desktop\Microsoft Web Tech\Week-5\Class-1\InClass-2\practice\StudentsApp\obj\Debug\net7.0\ref\StudentsApp.dll
+C:\Users\Tapan Patel\OneDrive - Conestoga College\3rd Sem\Microsoft Web Tech\Week-5&6\Class-1\InClass-2\TPInClass2\StudentsApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Tapan Patel\OneDrive - Conestoga College\3rd Sem\Microsoft Web Tech\Week-5&6\Class-1\InClass-2\TPInClass2\StudentsApp\bin\Debug\net7.0\appsettings.json
+C:\Users\Tapan Patel\OneDrive - Conestoga College\3rd Sem\Microsoft Web Tech\Week-5&6\Class-1\InClass-2\TPInClass2\StudentsApp\bin\Debug\net7.0\StudentsApp.staticwebassets.runtime.json
+C:\Users\Tapan Patel\OneDrive - Conestoga College\3rd Sem\Microsoft Web Tech\Week-5&6\Class-1\InClass-2\TPInClass2\StudentsApp\bin\Debug\net7.0\StudentsApp.exe
+C:\Users\Tapan Patel\OneDrive - Conestoga College\3rd Sem\Microsoft Web Tech\Week-5&6\Class-1\InClass-2\TPInClass2\StudentsApp\bin\Debug\net7.0\StudentsApp.deps.json
+C:\Users\Tapan Patel\OneDrive - Conestoga College\3rd Sem\Microsoft Web Tech\Week-5&6\Class-1\InClass-2\TPInClass2\StudentsApp\bin\Debug\net7.0\StudentsApp.runtimeconfig.json
+C:\Users\Tapan Patel\OneDrive - Conestoga College\3rd Sem\Microsoft Web Tech\Week-5&6\Class-1\InClass-2\TPInClass2\StudentsApp\bin\Debug\net7.0\StudentsApp.dll
+C:\Users\Tapan Patel\OneDrive - Conestoga College\3rd Sem\Microsoft Web Tech\Week-5&6\Class-1\InClass-2\TPInClass2\StudentsApp\bin\Debug\net7.0\StudentsApp.pdb
+C:\Users\Tapan Patel\OneDrive - Conestoga College\3rd Sem\Microsoft Web Tech\Week-5&6\Class-1\InClass-2\TPInClass2\StudentsApp\obj\Debug\net7.0\StudentsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tapan Patel\OneDrive - Conestoga College\3rd Sem\Microsoft Web Tech\Week-5&6\Class-1\InClass-2\TPInClass2\StudentsApp\obj\Debug\net7.0\StudentsApp.AssemblyInfoInputs.cache
+C:\Users\Tapan Patel\OneDrive - Conestoga College\3rd Sem\Microsoft Web Tech\Week-5&6\Class-1\InClass-2\TPInClass2\StudentsApp\obj\Debug\net7.0\StudentsApp.AssemblyInfo.cs
+C:\Users\Tapan Patel\OneDrive - Conestoga College\3rd Sem\Microsoft Web Tech\Week-5&6\Class-1\InClass-2\TPInClass2\StudentsApp\obj\Debug\net7.0\StudentsApp.csproj.CoreCompileInputs.cache
+C:\Users\Tapan Patel\OneDrive - Conestoga College\3rd Sem\Microsoft Web Tech\Week-5&6\Class-1\InClass-2\TPInClass2\StudentsApp\obj\Debug\net7.0\StudentsApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tapan Patel\OneDrive - Conestoga College\3rd Sem\Microsoft Web Tech\Week-5&6\Class-1\InClass-2\TPInClass2\StudentsApp\obj\Debug\net7.0\StudentsApp.RazorAssemblyInfo.cache
+C:\Users\Tapan Patel\OneDrive - Conestoga College\3rd Sem\Microsoft Web Tech\Week-5&6\Class-1\InClass-2\TPInClass2\StudentsApp\obj\Debug\net7.0\StudentsApp.RazorAssemblyInfo.cs
+C:\Users\Tapan Patel\OneDrive - Conestoga College\3rd Sem\Microsoft Web Tech\Week-5&6\Class-1\InClass-2\TPInClass2\StudentsApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Tapan Patel\OneDrive - Conestoga College\3rd Sem\Microsoft Web Tech\Week-5&6\Class-1\InClass-2\TPInClass2\StudentsApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Tapan Patel\OneDrive - Conestoga College\3rd Sem\Microsoft Web Tech\Week-5&6\Class-1\InClass-2\TPInClass2\StudentsApp\obj\Debug\net7.0\staticwebassets\msbuild.StudentsApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Tapan Patel\OneDrive - Conestoga College\3rd Sem\Microsoft Web Tech\Week-5&6\Class-1\InClass-2\TPInClass2\StudentsApp\obj\Debug\net7.0\staticwebassets\msbuild.build.StudentsApp.props
+C:\Users\Tapan Patel\OneDrive - Conestoga College\3rd Sem\Microsoft Web Tech\Week-5&6\Class-1\InClass-2\TPInClass2\StudentsApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.StudentsApp.props
+C:\Users\Tapan Patel\OneDrive - Conestoga College\3rd Sem\Microsoft Web Tech\Week-5&6\Class-1\InClass-2\TPInClass2\StudentsApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.StudentsApp.props
+C:\Users\Tapan Patel\OneDrive - Conestoga College\3rd Sem\Microsoft Web Tech\Week-5&6\Class-1\InClass-2\TPInClass2\StudentsApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Tapan Patel\OneDrive - Conestoga College\3rd Sem\Microsoft Web Tech\Week-5&6\Class-1\InClass-2\TPInClass2\StudentsApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Tapan Patel\OneDrive - Conestoga College\3rd Sem\Microsoft Web Tech\Week-5&6\Class-1\InClass-2\TPInClass2\StudentsApp\obj\Debug\net7.0\scopedcss\bundle\StudentsApp.styles.css
+C:\Users\Tapan Patel\OneDrive - Conestoga College\3rd Sem\Microsoft Web Tech\Week-5&6\Class-1\InClass-2\TPInClass2\StudentsApp\obj\Debug\net7.0\scopedcss\projectbundle\StudentsApp.bundle.scp.css
+C:\Users\Tapan Patel\OneDrive - Conestoga College\3rd Sem\Microsoft Web Tech\Week-5&6\Class-1\InClass-2\TPInClass2\StudentsApp\obj\Debug\net7.0\StudentsApp.dll
+C:\Users\Tapan Patel\OneDrive - Conestoga College\3rd Sem\Microsoft Web Tech\Week-5&6\Class-1\InClass-2\TPInClass2\StudentsApp\obj\Debug\net7.0\refint\StudentsApp.dll
+C:\Users\Tapan Patel\OneDrive - Conestoga College\3rd Sem\Microsoft Web Tech\Week-5&6\Class-1\InClass-2\TPInClass2\StudentsApp\obj\Debug\net7.0\StudentsApp.pdb
+C:\Users\Tapan Patel\OneDrive - Conestoga College\3rd Sem\Microsoft Web Tech\Week-5&6\Class-1\InClass-2\TPInClass2\StudentsApp\obj\Debug\net7.0\StudentsApp.genruntimeconfig.cache
+C:\Users\Tapan Patel\OneDrive - Conestoga College\3rd Sem\Microsoft Web Tech\Week-5&6\Class-1\InClass-2\TPInClass2\StudentsApp\obj\Debug\net7.0\ref\StudentsApp.dll

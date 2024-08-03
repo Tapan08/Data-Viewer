@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tapan Patel\\OneDrive - Conestoga College\\3rd Sem\\Microsoft Web Tech\\Week-5\u00266\\Class-1\\InClass-2\\TPInClass2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CAD2DF-F0CA-4352-8582-EF40AEDA2647}|StudentsApp\\StudentsApp.csproj|c:\\users\\tapan patel\\onedrive - conestoga college\\3rd sem\\microsoft web tech\\week-5\u00266\\class-1\\inclass-2\\tpinclass2\\studentsapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CAD2DF-F0CA-4352-8582-EF40AEDA2647}|StudentsApp\\StudentsApp.csproj|solutionrelative:studentsapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CAD2DF-F0CA-4352-8582-EF40AEDA2647}|StudentsApp\\StudentsApp.csproj|C:\\Users\\Tapan Patel\\OneDrive - Conestoga College\\3rd Sem\\Microsoft Web Tech\\Week-5\u00266\\Class-1\\InClass-2\\TPInClass2\\studentsapp\\views\\student\\items.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CAD2DF-F0CA-4352-8582-EF40AEDA2647}|StudentsApp\\StudentsApp.csproj|solutionrelative:studentsapp\\views\\student\\items.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CAD2DF-F0CA-4352-8582-EF40AEDA2647}|StudentsApp\\StudentsApp.csproj|C:\\Users\\Tapan Patel\\OneDrive - Conestoga College\\3rd Sem\\Microsoft Web Tech\\Week-5\u00266\\Class-1\\InClass-2\\TPInClass2\\studentsapp\\models\\studentsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CAD2DF-F0CA-4352-8582-EF40AEDA2647}|StudentsApp\\StudentsApp.csproj|solutionrelative:studentsapp\\models\\studentsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CAD2DF-F0CA-4352-8582-EF40AEDA2647}|StudentsApp\\StudentsApp.csproj|C:\\Users\\Tapan Patel\\OneDrive - Conestoga College\\3rd Sem\\Microsoft Web Tech\\Week-5\u00266\\Class-1\\InClass-2\\TPInClass2\\studentsapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CAD2DF-F0CA-4352-8582-EF40AEDA2647}|StudentsApp\\StudentsApp.csproj|solutionrelative:studentsapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CAD2DF-F0CA-4352-8582-EF40AEDA2647}|StudentsApp\\StudentsApp.csproj|C:\\Users\\Tapan Patel\\OneDrive - Conestoga College\\3rd Sem\\Microsoft Web Tech\\Week-5\u00266\\Class-1\\InClass-2\\TPInClass2\\studentsapp\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CAD2DF-F0CA-4352-8582-EF40AEDA2647}|StudentsApp\\StudentsApp.csproj|solutionrelative:studentsapp\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Items.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tapan Patel\\OneDrive - Conestoga College\\3rd Sem\\Microsoft Web Tech\\Week-5\u00266\\Class-1\\InClass-2\\TPInClass2\\StudentsApp\\Views\\Student\\Items.cshtml",
+              "RelativeDocumentMoniker": "StudentsApp\\Views\\Student\\Items.cshtml",
+              "ToolTip": "C:\\Users\\Tapan Patel\\OneDrive - Conestoga College\\3rd Sem\\Microsoft Web Tech\\Week-5\u00266\\Class-1\\InClass-2\\TPInClass2\\StudentsApp\\Views\\Student\\Items.cshtml",
+              "RelativeToolTip": "StudentsApp\\Views\\Student\\Items.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T17:01:27.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tapan Patel\\OneDrive - Conestoga College\\3rd Sem\\Microsoft Web Tech\\Week-5\u00266\\Class-1\\InClass-2\\TPInClass2\\StudentsApp\\Models\\StudentsViewModel.cs",
+              "RelativeDocumentMoniker": "StudentsApp\\Models\\StudentsViewModel.cs",
+              "ToolTip": "C:\\Users\\Tapan Patel\\OneDrive - Conestoga College\\3rd Sem\\Microsoft Web Tech\\Week-5\u00266\\Class-1\\InClass-2\\TPInClass2\\StudentsApp\\Models\\StudentsViewModel.cs",
+              "RelativeToolTip": "StudentsApp\\Models\\StudentsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T17:01:28.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Tapan Patel\\OneDrive - Conestoga College\\3rd Sem\\Microsoft Web Tech\\Week-5\u00266\\Class-1\\InClass-2\\TPInClass2\\StudentsApp\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentsApp\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\Tapan Patel\\OneDrive - Conestoga College\\3rd Sem\\Microsoft Web Tech\\Week-5\u00266\\Class-1\\InClass-2\\TPInClass2\\StudentsApp\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentsApp\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T17:01:28.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Tapan Patel\\OneDrive - Conestoga College\\3rd Sem\\Microsoft Web Tech\\Week-5\u00266\\Class-1\\InClass-2\\TPInClass2\\StudentsApp\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentsApp\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Tapan Patel\\OneDrive - Conestoga College\\3rd Sem\\Microsoft Web Tech\\Week-5\u00266\\Class-1\\InClass-2\\TPInClass2\\StudentsApp\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentsApp\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T17:01:28.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Tapan Patel\\OneDrive - Conestoga College\\3rd Sem\\Microsoft Web Tech\\Week-5\u00266\\Class-1\\InClass-2\\TPInClass2\\StudentsApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StudentsApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Tapan Patel\\OneDrive - Conestoga College\\3rd Sem\\Microsoft Web Tech\\Week-5\u00266\\Class-1\\InClass-2\\TPInClass2\\StudentsApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StudentsApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T17:01:28.637Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
