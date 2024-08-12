@@ -1,8 +1,8 @@
-# QGame
+# Data-Viewer
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [License] (#license)
+- [License](#license)
 
 
 ---
